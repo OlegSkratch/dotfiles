@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = olegderu98@gmail.com
+	name = oleg deru
